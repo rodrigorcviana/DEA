@@ -1,0 +1,19 @@
+{
+  "name": "projeto6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "serialport": "^7.1.5",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "author": "RR",
+  "license": "ISC"
+}
